@@ -1,0 +1,7 @@
+//com.lyn.dubbo.impl.BlackCar
+//com.lyn.dubbo.impl.RedCar
+black=com.lyn.dubbo.impl.BlackCar
+red=com.lyn.dubbo.impl.RedCar
+benz=com.lyn.dubbo.impl.BenzCar
+#com.lyn.dubbo.impl.CarWrapper2
+#com.lyn.dubbo.impl.CarWrapper
