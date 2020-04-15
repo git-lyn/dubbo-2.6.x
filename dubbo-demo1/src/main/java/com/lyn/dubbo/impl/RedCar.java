@@ -9,7 +9,7 @@ import com.lyn.dubbo.spi.Car;
  * * @create: 2020-04-06 14:42
  **/
 public class RedCar implements Car {
-    @Override
+    @Override //
     public void getColor(URL url) {
         System.out.println("red &&&&&&");
     }
